@@ -1,6 +1,6 @@
 import unittest
 
-from gilded_rose.gilded_rose import GildedRose
+from gilded_rose.GildedRose import GildedRose
 from gilded_rose.item import Item
 
 
